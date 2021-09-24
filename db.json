@@ -1,5 +1,6 @@
 {
   "currentUser": { "id": "", "username": "", "password": "", "bookings": [] },
+  "currentUserID": "",
   "usersList": [
     { "id": 0, "username": "user", "password": "123", "bookings": [] },
     { "id": 1, "username": "user2", "password": "1234", "bookings": [] }
