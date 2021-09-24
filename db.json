@@ -1,10 +1,9 @@
 {
-  "currentUser": { "id": 10, "username": "null", "password": "null" },
+  "currentUser": { "username": "null", "password": "null", "bookings": [] },
   "usersList": [
     { "id": 0, "username": "user", "password": "123" },
     { "id": 1, "username": "user2", "password": "1234" }
   ],
-  "bookings": [],
   "planets": [
     {
       "id": "1",
