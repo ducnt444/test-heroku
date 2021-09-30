@@ -182,5 +182,31 @@
         }
       ]
     }
+  ],
+  "tasks": [
+    {
+      "id": 0,
+      "taskName": "Develop something",
+      "taskDate": "01-01-2021",
+      "isDone": true
+    },
+    {
+      "id": 1,
+      "taskName": "Complete reports",
+      "taskDate": "01-01-2021",
+      "isDone": false
+    },
+    {
+      "id": 2,
+      "taskName": "Fix bug #121 ",
+      "taskDate": "01-01-2021",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "taskName": "Learn new tech",
+      "taskDate": "01-01-2021",
+      "isDone": false
+    }
   ]
 }
