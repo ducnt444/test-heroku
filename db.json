@@ -414,5 +414,257 @@
       "image_url": "https://picsum.photos/id/20/320/240",
       "created_at": "2013-07-07T07:51:42Z"
     }
-  ]
+  ],
+  "products": [
+  {
+    "id": 1,
+    "name": "Bonneville",
+    "category": "France",
+    "price": 195,
+    "des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tristique, diam in consequat iaculis, est purus iaculis mauris, imperdiet facilisis ante ligula at nulla. Quisque volutpat nulla risus, id maximus ex aliquet ut. Suspendisse potenti. Nulla varius lectus id turpis dignissim porta. Quisque magna arcu, blandit quis felis vehicula, feugiat gravida diam. Nullam nec turpis ligula. Aliquam quis blandit elit, ac sodales nisl. Aliquam eget dolor eget elit malesuada aliquet. In varius lorem lorem, semper bibendum lectus lobortis ac.",
+    "qty": 55,
+    "url1": "https://freshdesignweb.com/demo/template/ustora/img/product-3.jpg",
+    "url2": "https://freshdesignweb.com/demo/template/ustora/img/product-thumb-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "62",
+    "category": "China",
+    "url1": "https://freshdesignweb.com/demo/template/ustora/img/product-1.jpg",
+    "url2": "https://freshdesignweb.com/demo/template/ustora/img/product-4.jpg",
+    "price": 956,
+    "des": "WA1VMAFE7DD377484",
+    "qty": 46
+  },
+  {
+    "id": 3,
+    "name": "D250 Club",
+    "category":"France",
+    "url1": "https://freshdesignweb.com/demo/template/ustora/img/product-1.jpg",
+    "url2": "https://img.websosanh.vn/v2/users/review/images/g0uimocg53p63.jpg?compress=85",
+    "price": 848,
+    "des": "WAULC68E25A821896",
+    "qty": 61
+  },
+  {
+    "id": 4,
+    "name": "57",
+    "category":  "China",
+    "url1": "https://freshdesignweb.com/demo/template/ustora/img/product-4.jpg",
+    "url2": "https://freshdesignweb.com/demo/template/ustora/img/product-1.jpg",
+    "price": 543,
+    "des": "1G6DT57V890155869",
+    "qty": 34
+  },
+  {
+    "id": 5,
+    "name": "Town Car",
+    "category":  "Vietnam",
+    "url1": "https://freshdesignweb.com/demo/template/ustora/img/product-1.jpg",
+    "url2": "https://freshdesignweb.com/demo/template/ustora/img/product-3.jpg",
+    "price": 164,
+    "des": "WA1DKBFP1BA332872",
+    "qty": 86
+  },
+  {
+    "id": 6,
+    "name": "G",
+    "category": "Thailand",
+    "url1": "https://freshdesignweb.com/demo/template/ustora/img/product-2.jpg",
+    "ur2": "https://freshdesignweb.com/demo/template/ustora/img/product-3.jpg",
+    "price": 162,
+    "des": "1GYS4BEF8BR038493",
+    "qty": 28
+  },
+  {
+    "id": 7,
+    "name": "7 Series",
+    "category": "France",
+    "url1": "https://freshdesignweb.com/demo/template/ustora/img/product-3.jpg",
+    "url2": "https://freshdesignweb.com/demo/template/ustora/img/product-2.jpg",
+    "price": 185,
+    "des": "1GKS2GEJ8CR726447",
+    "qty": 43
+  },
+  {
+    "id": 8,
+    "name": "Verona",
+    "category": "Thailand",
+    "url1": "https://freshdesignweb.com/demo/template/ustora/img/product-1.jpg",
+    "url2": "https://freshdesignweb.com/demo/template/ustora/img/product-1.jpg",
+    "price": 641,
+    "des": "1G6DJ5E36D0707823",
+    "qty": 42
+  },
+  {
+    "id": 9,
+    "name": "Parisienne",
+    "category":"France",
+    "url1": "https://freshdesignweb.com/demo/template/ustora/img/product-4.jpg",
+    "url2": "https://freshdesignweb.com/demo/template/ustora/img/product-1.jpg",
+    "price": 742,
+    "des": "WAUEF78E97A293198",
+    "qty": 48
+  },
+  {
+    "id": 10,
+    "name": "xA",
+    "category": "China",
+    "url1": "https://freshdesignweb.com/demo/template/ustora/img/product-3.jpg",
+    "url2": "https://freshdesignweb.com/demo/template/ustora/img/product-4.jpg",
+    "price": 383,
+    "des": "KMHGH4JH3EU458744",
+    "qty": 85
+  },
+  {
+    "id": 11,
+    "name": "Maxima",
+    "category": "Thailand",
+    "url1": "https://freshdesignweb.com/demo/template/ustora/img/product-2.jpg",
+    "url2": "https://fshde2signweb.com/demo/template/ustora/img/product-2.jpg",
+    "price": 618,
+    "des": "WAUBVAFB4AN191108",
+    "qty": 24
+  },
+  {
+    "id": 12,
+    "name": "Bronco",
+    "category":"Thailand",
+    "url1": "https://freshdesignweb.com/demo/template/ustora/img/product-4.jpg",
+    "url2": "https://freshdesignweb.com/demo/template/ustora/img/product-3.jpg",
+    "price": 500,
+    "des": "WBAYP9C58ED934642",
+    "qty": 52
+  },
+  {
+    "id": 13,
+    "name": "Quest",
+    "category":  "China",
+    "url1": "https://freshdesignweb.com/demo/template/ustora/img/product-2.jpg",
+    "url2": "https://freshdesignweb.com/demo/template/ustora/img/product-3.jpg",
+    "price": 652,
+    "des": "2T1KE4EE9BC660598",
+    "qty": 22
+  },
+  {
+    "id": 14,
+    "name": "Quest",
+    "category": "Vietnam",
+    "url1": "https://freshdesignweb.com/demo/template/ustora/img/product-3.jpg",
+    "url2": "https://freshdesignweb.com/demo/template/ustora/img/product-3.jpg",
+    "price": 602,
+    "des": "WBADS43491G232197",
+    "qty": 2
+  },
+  {
+    "id": 15,
+    "name": "7 Series",
+    "category": "Thailand",
+    "url1": "https://freshdesignweb.com/demo/template/ustora/img/product-2.jpg",
+    "url2": "https://freshdesignweb.com/demo/template/ustora/img/product-3.jpg",
+    "price": 810,
+    "des": "WAUPL58E04A266666",
+    "qty": 59
+  },
+  {
+    "id": 16,
+    "name": "Crossfire",
+    "category": "China",
+    "url1": "https://freshdesignweb.com/demo/template/ustora/img/product-1.jpg",
+    "url2": "https://freshdesignweb.com/demo/template/ustora/img/product-3.jpg",
+    "price": 54,
+    "des": "WAUWKAFR5AA133636",
+    "qty": 34
+  },
+  {
+    "id": 17,
+    "name": "Sentra",
+    "category": "Vietnam",
+    "url1": "https://freshdesignweb.com/demo/template/ustora/img/product-3.jpg",
+    "url2": "https://freshdesignweb.com/demo/template/ustora/img/product-3.jpg",
+    "price": 373,
+    "des": "WBAPK5C59BA936125",
+    "qty": 92
+  },
+  {
+    "id": 18,
+    "name": "Sienna",
+    "category": "China",
+    "url1": "https://freshdesignweb.com/demo/template/ustora/img/product-4.jpg",
+    "url2": "https://freshdesignweb.com/demo/template/ustora/img/product-1.jpg",
+    "price": 535,
+    "des": "5NPEB4AC1CH228970",
+    "qty": 5
+  },
+  {
+    "id": 19,
+    "name": "Escort ZX2",
+    "category": "Vietnam",
+    "url1": "https://freshdesignweb.com/demo/template/ustora/img/product-2.jpg",
+    "url2": "https://freshdesignweb.com/demo/template/ustora/img/product-3.jpg",
+    "price": 658,
+    "des": "KNAFU6A20A5395333",
+    "qty": 76
+  },
+  {
+    "id": 20,
+    "name": "626",
+    "category":"China",
+    "url1": "https://freshdesignweb.com/demo/template/ustora/img/product-3.jpg",
+    "url2": "https://freshdesignweb.com/demo/template/ustora/img/product-4.jpg",
+    "price": 841,
+    "des": "2T2BC1BA9FC669437",
+    "qty": 46
+  },
+  {
+    "id": 21,
+    "name": "Town & Country",
+    "category": "Vietnam",
+    "url1": "https://freshdesignweb.com/demo/template/ustora/img/product-3.jpg",
+    "url2": "https://freshdesignweb.com/demo/template/ustora/img/product-3.jpg",
+    "price": 426,
+    "des": "WAUDF98E87A089516",
+    "qty": 67
+  },
+  {
+    "id": 22,
+    "name": "GTI",
+    "category": "Vietnam",
+    "url1": "https://freshdesignweb.com/demo/template/ustora/img/product-1.jpg",
+    "url2": "https://freshdesignweb.com/demo/template/ustora/img/product-3.jpg",
+    "price": 751,
+    "des": "3G5DA03E24S034677",
+    "qty": 28
+  },
+  {
+    "id": 23,
+    "name": "Grand Marquis",
+    "category": "Italy",
+    "url1": "https://freshdesignweb.com/demo/template/ustora/img/product-2.jpg",
+    "url2": "https://freshdesignweb.com/demo/template/ustora/img/product-2.jpg",
+    "price": 966,
+    "des": "1FTEW1CM1CF016487",
+    "qty": 40
+  },
+  {
+    "id": 24,
+    "name": "MR2",
+    "category": "Italy",
+    "url1": "https://freshdesignweb.com/demo/template/ustora/img/product-3.jpg",
+    "url2": "https://freshdesignweb.com/demo/template/ustora/img/product-2.jpg",
+    "price": 110,
+    "des": "WBALM7C51BE470168",
+    "qty": 58
+  },
+  {
+    "id": 25,
+    "name": "MR2",
+    "category": "Italy",
+    "url1": "https://freshdesignweb.com/demo/template/ustora/img/product-3.jpg",
+    "url2": "https://freshdesignweb.com/demo/template/ustora/img/product-2.jpg",
+    "price": 110,
+    "des": "WBALM7C51BE470168",
+    "qty": 58
+  }
+]
 }
